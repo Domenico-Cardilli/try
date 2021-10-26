@@ -1,0 +1,22 @@
+.null{
+  position: relative;
+  top: 25px;
+}
+
+
+.one{
+  position: relative;
+  top: 5px;
+}
+
+.two{
+  position: relative;
+  bottom: 10px;
+}
+
+.tree{
+
+  position: relative;
+  top: 20px;
+  width: 75%;
+}
